@@ -9,5 +9,4 @@ public extension UIColor {
         return Color(red: colorComponents[0], green: colorComponents[1], blue: colorComponents[2])
     }
 }
-
 #endif
