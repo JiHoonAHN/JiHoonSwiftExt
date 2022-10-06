@@ -12,7 +12,7 @@ Swift Package Manager
 ```swift 
 // Package.swift
 dependencies: [
-    .package(url: "https://github.com/JiHoonAHN/JiHoonSwiftExt.git", from: "0.0.1")
+    .package(url: "https://github.com/JiHoonAHN/JiHoonSwiftExt.git", from: "0.0.2")
 ]
 ```
 
